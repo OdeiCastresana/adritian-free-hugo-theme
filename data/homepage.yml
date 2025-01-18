@@ -11,7 +11,7 @@ showcase:
 
   button:
     icon: "icon-email"
-    URL: "https://www.adrianmoreno.info/"
+    URL: ""
 
   socialLinks:
     - icon: "linkedin"
